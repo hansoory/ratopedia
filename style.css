@@ -1,0 +1,29 @@
+body {
+    text-align: left;
+    font: 18px 'Roboto', Helvetica, sans-serif;
+    font-family: "Roboto", Helvetica, sans-serif;
+    background-color: #45361e;
+    color: #000000;
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.container {
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    position: relative;
+}
+
+#LogoGif {
+    image-rendering: crisp-edges;
+    width: 100%;
+}
